@@ -8,13 +8,13 @@ Performing a sentiment analysis task for two nltk package data set ( movie_revie
 in two classes of positive and negative. You can see the classification result and enter a sample
 sentence to test the model. 
 
-( complete implementation detail in commented in python file )  
+( complete implementation detail commented in python file )  
 
 2- twitter-sentiment.py : sentiment analysis on a set of collected tweets from twitter - classifying 
 tweets in two classes of positive and negative. You can see the classification result and enter a sample
 tweet to test the model.
  
-( complete implementation detail in commented in python file ) 
+( complete implementation detail commented in python file ) 
 
 ## Prerequisites
 
